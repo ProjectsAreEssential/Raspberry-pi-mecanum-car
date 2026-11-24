@@ -5,7 +5,7 @@
 
 /*
  * Camera
- * 
+ * ---
  * Represents a simulated Pi Camera module for terminal testing.
  * In this simplified model we track:
  *  - whether video streaming is currently active
