@@ -1,0 +1,2 @@
+speed=80
+camera_mode=ON
